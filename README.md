@@ -25,5 +25,5 @@
 - [SnakeGame](https://github.com/Error404RD/SnakeGame) - This project has been something very simple, honestly it is basically the classic snake game.
 
 ## Connect with me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose%20Lopez-blue?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/jose-miguel-lopez-arias-867855220/)
-![Instagram](https://img.shields.io/badge/Instagram-Jose%20Lopez-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/https.josemlopez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dony%20Castro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-miguel-lopez-arias-867855220/)
+[![Instagram](https://img.shields.io/badge/Instagram-Dony%20Castro-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/https.josemlopez/)
